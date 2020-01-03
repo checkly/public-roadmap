@@ -11,3 +11,5 @@ Tell us what feature, integration or UI tweak would rock your world. Just go [he
 1. Problem description. What is not working, missing or bugging you?
 2. Process description. What step(s) are needed to solve this issue?
 3. Expected outcome. What should your world (or Checkly) look like after using this function.
+
+💡 For general support request and bug reports, please go to checklyhq.com/support
