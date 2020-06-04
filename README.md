@@ -4,6 +4,8 @@ This roadmap contains all the tweaks, improvements and new features we plan for 
 
 Check the [Kanban board in this project](https://github.com/checkly/roadmap/projects/1) for an overview.
 
+Note: not all small updates and features will be tracked here; we regularly make small updates based on private feedback or our own discoveries and we'd rather ship them than create and close tickets here.
+
 ## Suggest a feature
 
 Tell us what feature, integration or UI tweak would rock your world. Just go [here and create an issue](https://github.com/checkly/product-roadmap/issues) in this project and label it as "feature request". To optimize our information exchange, an initial feature request would containt the following parts:
