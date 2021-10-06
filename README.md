@@ -17,7 +17,7 @@ Note: not all small updates and features will be tracked here; we regularly make
 
 ## Suggest a feature
 
-Tell us what feature, integration or UI tweak would rock your world. Just go [here and create an issue](https://github.com/checkly/product-roadmap/issues) in this project and label it as "feature request". To optimize our information exchange, an initial feature request would containt the following parts:
+Tell us what feature, integration or UI tweak would rock your world. Just go [here and create an issue](https://github.com/checkly/product-roadmap/issues) in this project and label it as "feature request". To optimize our information exchange, an initial feature request would contain the following parts:
 
 1. Problem description. What is not working, missing or bugging you?
 2. Process description. What step(s) are needed to solve this issue?
