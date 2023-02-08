@@ -4,7 +4,7 @@ about: Suggest an idea for Checkly
 
 ---
 
-💡 For general support requests and bug reports, please go to [checklyhq.com/support](https://checklyhq.com/support)
+💡 Join our [Slack Community](https://www.checklyhq.com/slack) to ask general questions, suggest ideas and get direct help from all the folks at Checkly.
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
