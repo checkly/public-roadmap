@@ -16,14 +16,3 @@ Tell us what feature, integration or UI tweak would rock your world. Just go [he
 ## Join our Slack Developer Community
 
 Want to chat about product ideas, features or bugs before filing an issue here on the roadmap? Great! [Just join us on Slack](https://www.checklyhq.com/slack) and let's talk! Our engineers, designers and product folks hang out there on a daily basis.
-
-<p align="center">
-  <a href="https://cdn.checklyhq.com/logos/checkly_racoon_logo_horizontal.svg" target="_blank">
-  <img width="100px" src="https://www.checklyhq.com/images/text_racoon_logo.svg" alt="Checkly" />
-  </a>
-  <br />
-  <i><sub>Code, test, and deploy synthetic monitoring at scale</sub></i>
-  <br>
-<p>
-
-
