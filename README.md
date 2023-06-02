@@ -1,15 +1,13 @@
 
 <p>
   <img height="128" src="https://cdn.checklyhq.com/logos/racoon_logo.svg" align="right" />
-  This roadmap contains all the tweaks, improvements and new features we plan for Checkly. Of course, things change and we may shuffle priorities at any time. At Checkly we learn A TON from talking to users, so don't hesitate to contact us with your ideas and feedback.
 </p>
 
+Our public roadmap has moved to [https://feedback.checklyhq.com](https://feedback.checklyhq.com)
 
-Check the [Kanban board in this project](https://github.com/orgs/checkly/projects/4/views/4) for an overview.
-
-## Suggest a feature
-
-Tell us what feature, integration or UI tweak would rock your world. Just go [here and create an issue](https://github.com/checkly/product-roadmap/issues) in this project and label it as "feature request".
+- [Suggest a feature](https://feedback.checklyhq.com/)
+- [Check our public roadmap](https://feedback.checklyhq.com/roadmap)
+- [Check our changelog](https://feedback.checklyhq.com/changelog)
 
 💡 For general support requests and bug reports, please go to checklyhq.com and contact us via support chat - or just write to support@checklyhq.com
 
